@@ -4,7 +4,7 @@
 
 - 📚 Eu curso Ciência da Computação
 - 📌 Pronomes: Ela/Dela
-- 📑 Meu currículo: https://www.canva.com/design/DAFPfW8GgkY/zq6B4U95i03KL8-_mnhbzQ/edit?utm_content=DAFPfW8GgkY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+- 📑 Meu currículo: https://www.canva.com/design/DAGDcnUWpA4/nM-0QccvUVzdJrAYyjp7Vg/edit?utm_content=DAGDcnUWpA4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 <div align="center">
   <a href="https://github.com/VivianKesse
